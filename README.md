@@ -22,3 +22,5 @@ The PPO agent successfully stabilizes the beam within the ±10mm pipe limits whi
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+python Beam_train.py
